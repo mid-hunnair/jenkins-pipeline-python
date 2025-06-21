@@ -1,1 +1,1 @@
-print("🚀 Hello from Jenkins Pipeline App!")
+print(" Hello from Jenkins Pipeline App!")
